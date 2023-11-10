@@ -53,7 +53,7 @@ time.sleep(30)
 print(tcs_train.keys())
 
 # input = ['Open', 'High', 'Low', 'Volume']
-input = ['Open', 'High', 'Low']
+input = ['Open']
 dims = len(input)
 
 # Split into input (X) and output (Y) variables
